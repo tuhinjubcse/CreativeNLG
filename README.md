@@ -25,11 +25,11 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 1. [Hierarchical Neural Story Generation](https://www.aclweb.org/anthology/P18-1082/), Angela Fan, Mike Lewis, Yann Dauphin 2018
 1. [Strategies for Structuring Story Generation](https://www.aclweb.org/anthology/P19-1254/), Angela Fan, Mike Lewis, Yann Dauphin, 2019
-1. [Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/abs/1811.05701?),Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan
+1. [Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/abs/1811.05701?),Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan, 2019
 1. [Content Planning for Neural Story Generation with Aristotelian Rescoring](https://www.aclweb.org/anthology/2020.emnlp-main.351/), Seraphina Goldfarb-Tarrant, Tuhin Chakrabarty, Ralph Weischedel, Nanyun Peng, 2020
 1. [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://transacl.org/ojs/index.php/tacl/article/view/1886), Jian Guan, Fei Huang, Minlie Huang, Zhihao Zhao, Xiaoyan Zhu, 2020
 1. [PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking](https://www.aclweb.org/anthology/2020.emnlp-main.349/), Hannah Rashkin, Asli Celikyilmaz, Yejin Choi, Jianfeng Gao, 2020
-1. [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509/), Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi. 2019.
+1. [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509/), Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi. 2019
 1. [Improving Neural Story Generation by Targeted Common Sense Grounding](https://www.aclweb.org/anthology/D19-1615/) Huanru Henry Mao, Bodhisattwa Prasad Majumder, Julian McAuley, Garrison Cottrell, 2019
 1. [Towards Controllable Story Generation](https://www.aclweb.org/anthology/W18-1505/) Nanyun Peng, Marjan Ghazvininejad, Jonathan May, Kevin Knight , 2018
 1. [Guided Neural Language Generation for Automated Storytelling](https://www.aclweb.org/anthology/W19-3405/) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara Martin, Mark Riedl, 2019
