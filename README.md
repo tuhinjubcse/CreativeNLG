@@ -17,7 +17,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
     - [Story Generation](#story-gen)
     - [Metaphor Generation](#meta-gen)
     - [Humor Generation](#humor-gen)
-    - [Sarcasm Generation] (#sarcasm-gen)
+    - [Sarcasm Generation](#sarcasm-gen)
     - [Poetry Generation](#poetry-gen)
 
 
