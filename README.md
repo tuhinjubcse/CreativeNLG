@@ -50,10 +50,10 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [Homophonic Pun Generation with Lexically Constrained Rewriting](https://www.aclweb.org/anthology/2020.emnlp-main.229/) Zhiwei Yu, Hongyu Zang, Xiaojun Wan, 2020
 1. [Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines](https://www.aclweb.org/anthology/2020.acl-demos.28/) Nabil Hossain, John Krumm, Tanvir Sajed, Henry Kautz, 2020
 1. ["Judge me by my size (noun), do you?” YodaLib: A Demographic-Aware Humor Generation Framework](https://www.aclweb.org/anthology/2020.coling-main.253/) Aparna Garimella, Carmen Banea, Nabil Hossain, Rada Mihalcea, 2020
-1. [A Neural Approach to Pun Generation](https://www.aclweb.org/anthology/P18-1153/) Zhiwei Yu, Jiwei Tan, Xiaojun Wan, 2018
 1. [Pun Generation with Surprise](https://www.aclweb.org/anthology/N19-1172/) He He, Nanyun Peng, Percy Liang, 2019
 1. [Pun-GAN: Generative Adversarial Network for Pun Generation](https://www.aclweb.org/anthology/D19-1336/), Fuli Luo, Shunyao Li, Pengcheng Yang, Lei Li, Baobao Chang, Zhifang Sui, Xu Sun, 2019
 1. ["President Vows to Cut Taxes Hair": Dataset and Analysis of Creative Text Editing for Humorous Headlines](https://www.aclweb.org/anthology/N19-1012/) Nabil Hossain, John Krumm, Michael Gamon, 2019
+1. [A Neural Approach to Pun Generation](https://www.aclweb.org/anthology/P18-1153/) Zhiwei Yu, Jiwei Tan, Xiaojun Wan, 2018
 1. [Unsupervised joke generation from big data](https://www.aclweb.org/anthology/P13-2041/), Saša Petrović, David Matthews, 2013
 
 #### Sarcasm Generation
