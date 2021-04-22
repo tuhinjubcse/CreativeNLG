@@ -62,7 +62,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 #### Poetry Generation and Translation
 1. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). Tim Van de Cruys 2020.
-1. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). Piji Li Haisong Zhang Xiaojiang Liu Shuming Shi , 2020.
+1. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). Piji Li, Haisong Zhang, Xiaojiang Liu ,Shuming Shi , 2020.
 1. [Generating Modern Poetry Automatically in Finnish](https://www.aclweb.org/anthology/D19-1617.pdf). Mika Hämäläinen, Khalid Alnajjar , 2019. 
 1. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). Jack Hopkins, Douwe Kiela , 2017.
 1. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126).  Marjan Ghazvininejad, Xing Shi, Yejin Choi, Kevin Knight ,2016.
