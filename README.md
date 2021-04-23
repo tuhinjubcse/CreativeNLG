@@ -4,6 +4,7 @@
 Papers about creative NLG in NLP
 
 [Tuhin Chakrabarty](https://tuhinjubcse.github.io/)
+[Chenghao Yang](https://yangalan123.github.io/)
 
 
 ## Background
