@@ -63,12 +63,12 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 #### Poetry Generation and Translation
 1. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). Tim Van de Cruys, 2020
 1. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). Piji Li, Haisong Zhang, Xiaojiang Liu ,Shuming Shi, 2020
-1. [Generating Modern Poetry Automatically in Finnish](https://www.aclweb.org/anthology/D19-1617.pdf). Mika Hämäläinen, Khalid Alnajjar, 2019. 
-1. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). Jack Hopkins, Douwe Kiela, 2017.
-1. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126). Marjan Ghazvininejad, Xing Shi, Yejin Choi, Kevin Knight, 2016
-1. [Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation](https://www.aclweb.org/anthology/P19-1192) Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou, 2019
 1. [MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space](https://arxiv.org/pdf/2003.06094.pdf) Xiaoyuan Yi, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun, 2020
+1. [Generating Modern Poetry Automatically in Finnish](https://www.aclweb.org/anthology/D19-1617.pdf). Mika Hämäläinen, Khalid Alnajjar, 2019. 
+1. [Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation](https://www.aclweb.org/anthology/P19-1192) Zhiqiang Liu, Zuohui Fu, Jie Cao, Gerard de Melo, Yik-Cheung Tam, Cheng Niu and Jie Zhou, 2019
 1. [Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement](https://aclweb.org/anthology/D18-1430) Cheng Yang, Maosong Sun, Xiaoyuan Yi, and Wenhao Li, 2018
 1. [Automatic Poetry Generation with Mutual Reinforcement Learning](https://aclweb.org/anthology/D18-1353) Xiaoyuan Yi, Maosong Sun, Ruoyu Li, and Wenhao Li, 2018.
 1. [Neural Poetry Translation](https://aclweb.org/anthology/N18-2011) Marjan Ghazvininejad, Yejin Choi, and Kevin Knight, 2018
+1. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). Jack Hopkins, Douwe Kiela, 2017.
+1. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126). Marjan Ghazvininejad, Xing Shi, Yejin Choi, Kevin Knight, 2016
 1. ["Poetic" Statistical Machine Translation: Rhyme and Meter](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36745.pdf) Dmitriy Genzel, Jakob Uszkoreit, Franz Och, 2010
