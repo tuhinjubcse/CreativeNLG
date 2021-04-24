@@ -28,16 +28,20 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://transacl.org/ojs/index.php/tacl/article/view/1886), Jian Guan, Fei Huang, Minlie Huang, Zhihao Zhao, Xiaoyan Zhu, 2020
 1. [PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking](https://www.aclweb.org/anthology/2020.emnlp-main.349/), Hannah Rashkin, Asli Celikyilmaz, Yejin Choi, Jianfeng Gao, 2020
 1. [Automated Storytelling via Causal, Commonsense Plot Ordering](https://arxiv.org/abs/2009.00829) Prithviraj Ammanabrolu, Wesley Cheung, William Broniec, Mark O. Riedl, 2020
-3. [Strategies for Structuring Story Generation](https://www.aclweb.org/anthology/P19-1254/), Angela Fan, Mike Lewis, Yann Dauphin, 2019
-4. [Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/abs/1811.05701?),Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan, 2019
-5. [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509/), Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi, 2019
-6. [Improving Neural Story Generation by Targeted Common Sense Grounding](https://www.aclweb.org/anthology/D19-1615/) Huanru Henry Mao, Bodhisattwa Prasad Majumder, Julian McAuley, Garrison Cottrell, 2019
-7. [Towards Controllable Story Generation](https://www.aclweb.org/anthology/W18-1505/) Nanyun Peng, Marjan Ghazvininejad, Jonathan May, Kevin Knight , 2018
-8. [Guided Neural Language Generation for Automated Storytelling](https://www.aclweb.org/anthology/W19-3405/) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara Martin, Mark Riedl, 2019
-9. [Learning to Control the Fine-grained Sentiment for Story Ending Generation](https://www.aclweb.org/anthology/P19-1603/) Fuli Luo, Damai Dai, Pengcheng Yang, Tianyu Liu, Baobao Chang, Zhifang Sui, Xu Sun, 2019
-10. [Story Realization: Expanding Plot Events into Sentences](https://arxiv.org/abs/1909.03480) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl, 2019
-11. [Hierarchical Neural Story Generation](https://www.aclweb.org/anthology/P18-1082/), Angela Fan, Mike Lewis, Yann Dauphin, 2018
-12. [Plot Induction and Evolutionary Search for Story Generation](https://www.aclweb.org/anthology/P10-1158/) Neil McIntyre, Mirella Lapata, 2010
+1. [Modeling Protagonist Emotions for Emotion-Aware Storytelling](https://www.aclweb.org/anthology/2020.emnlp-main.426/) Faeze Brahman, Snigdha Chaturvedi, 2020
+1. [Cue Me In: Content-Inducing Approaches to Interactive Story Generation](https://www.aclweb.org/anthology/2020.aacl-main.59/) Faeze Brahman, Alenxandru Petrusca and Snigdha Chaturvedi
+1. [Strategies for Structuring Story Generation](https://www.aclweb.org/anthology/P19-1254/), Angela Fan, Mike Lewis, Yann Dauphin, 2019
+1. [Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/abs/1811.05701?),Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan, 2019
+1. [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509/), Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi, 2019
+1. [Improving Neural Story Generation by Targeted Common Sense Grounding](https://www.aclweb.org/anthology/D19-1615/) Huanru Henry Mao, Bodhisattwa Prasad Majumder, Julian McAuley, Garrison Cottrell, 2019
+1. [Towards Controllable Story Generation](https://www.aclweb.org/anthology/W18-1505/) Nanyun Peng, Marjan Ghazvininejad, Jonathan May, Kevin Knight , 2018
+1. [Guided Neural Language Generation for Automated Storytelling](https://www.aclweb.org/anthology/W19-3405/) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara Martin, Mark Riedl, 2019
+1. [Learning to Control the Fine-grained Sentiment for Story Ending Generation](https://www.aclweb.org/anthology/P19-1603/) Fuli Luo, Damai Dai, Pengcheng Yang, Tianyu Liu, Baobao Chang, Zhifang Sui, Xu Sun, 2019
+1. [Story Realization: Expanding Plot Events into Sentences](https://arxiv.org/abs/1909.03480) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl, 2019
+1. [Hierarchical Neural Story Generation](https://www.aclweb.org/anthology/P18-1082/), Angela Fan, Mike Lewis, Yann Dauphin, 2018
+1. [Towards Controllable Story Generation](https://www.aclweb.org/anthology/W18-1505), Nanyun Peng, Marjan Ghazvininejad, Jonathan May, Kevin Knight, 2018
+3. [Neural Text Generation in Stories Using Entity Representations as Context](https://www.aclweb.org/anthology/N18-1204/) Elizabeth Clark, Yangfeng Ji, Noah A. Smith, 2018
+4. [Plot Induction and Evolutionary Search for Story Generation](https://www.aclweb.org/anthology/P10-1158/) Neil McIntyre, Mirella Lapata, 2010
 
 #### Metaphor Generation
 1. [MERMAID: Metaphor Generation with Symbolism and Discriminative Decoding](https://arxiv.org/abs/2103.06779) Tuhin Chakrabarty ,Xurui Zhang, Smaranda Muresan and Nanyun Peng, 2021
