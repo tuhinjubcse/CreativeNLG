@@ -35,7 +35,6 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 9. [Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/abs/1811.05701?),Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan, 2019
 10. [Counterfactual Story Reasoning and Generation](https://www.aclweb.org/anthology/D19-1509/), Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi, 2019
 11. [Improving Neural Story Generation by Targeted Common Sense Grounding](https://www.aclweb.org/anthology/D19-1615/) Huanru Henry Mao, Bodhisattwa Prasad Majumder, Julian McAuley, Garrison Cottrell, 2019
-12. [Towards Controllable Story Generation](https://www.aclweb.org/anthology/W18-1505/) Nanyun Peng, Marjan Ghazvininejad, Jonathan May, Kevin Knight , 2018
 13. [Guided Neural Language Generation for Automated Storytelling](https://www.aclweb.org/anthology/W19-3405/) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara Martin, Mark Riedl, 2019
 14. [Learning to Control the Fine-grained Sentiment for Story Ending Generation](https://www.aclweb.org/anthology/P19-1603/) Fuli Luo, Damai Dai, Pengcheng Yang, Tianyu Liu, Baobao Chang, Zhifang Sui, Xu Sun, 2019
 15. [Story Realization: Expanding Plot Events into Sentences](https://arxiv.org/abs/1909.03480) Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl, 2019
