@@ -19,6 +19,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
     - [Metaphor Generation](#meta-gen)
     - [Humor Generation](#humor-gen)
     - [Sarcasm Generation](#sarcasm-gen)
+    - [Idiom Generation](#idiom-gen)
     - [Poetry Generation](#poetry-gen)
 
 
@@ -63,7 +64,12 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 #### Sarcasm Generation
 1. [Rˆ3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge](https://www.aclweb.org/anthology/2020.acl-main.711/) Tuhin Chakrabarty, Debanjan Ghosh, Smaranda Muresan, Nanyun Peng, 2020
-1. [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636/) Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan, 2019
+1. [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636/) Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan, 
+
+
+#### Idiom Generation
+1. [From Solving a Problem Boldly to Cutting the Gordian Knot: Idiomatic Text Generation](https://arxiv.org/pdf/2104.06541.pdf) Jianing Zhou, Hongyu Gong and Suma Bhat 2020
+
 
 #### Poetry Generation and Translation
 1. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). Tim Van de Cruys, 2020
