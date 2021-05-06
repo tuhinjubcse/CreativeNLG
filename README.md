@@ -83,3 +83,6 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). Jack Hopkins, Douwe Kiela, 2017.
 1. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126). Marjan Ghazvininejad, Xing Shi, Yejin Choi, Kevin Knight, 2016
 1. ["Poetic" Statistical Machine Translation: Rhyme and Meter](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36745.pdf) Dmitriy Genzel, Jakob Uszkoreit, Franz Och, 2010
+
+#### Improv and Creative Dialogue Generation 
+1. [Grounding Conversations with Improvised Dialogues](https://www.aclweb.org/anthology/2020.acl-main.218/). Hyundong Cho, Jonathan May, 2020 
