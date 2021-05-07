@@ -23,7 +23,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
     - [Poetry Generation](#poetry-gen)
 
 
-####Story Generation
+#### Story Generation
 
 1. [Content Planning for Neural Story Generation with Aristotelian Rescoring](https://www.aclweb.org/anthology/2020.emnlp-main.351/), Seraphina Goldfarb-Tarrant, Tuhin Chakrabarty, Ralph Weischedel, Nanyun Peng, 2020
 1. [STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation.](https://www.aclweb.org/anthology/2020.emnlp-main.525/) Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng, Mohit Iyyer, 2020
