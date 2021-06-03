@@ -24,7 +24,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 
 #### Story Generation
-
+1. [Plot-guided Adversarial Example Construction for Evaluating Open-domain Story Generation](https://www.aclweb.org/anthology/2021.naacl-main.343.pdf), Sarik Ghazarian, Zixi Liu, Akash S M, Ralph Weischedel, Aram Galstyan and Nanyun Peng, 2021
 1. [Choose Your Own Adventure: Paired Suggestions in Collaborative Writing for Evaluating Story Generation Models](https://www.aclweb.org/anthology/2021.naacl-main.279.pdf), Elizabeth Clark and Noah A. Smith 2021
 1. [Content Planning for Neural Story Generation with Aristotelian Rescoring](https://www.aclweb.org/anthology/2020.emnlp-main.351/), Seraphina Goldfarb-Tarrant, Tuhin Chakrabarty, Ralph Weischedel, Nanyun Peng, 2020
 1. [STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation.](https://www.aclweb.org/anthology/2020.emnlp-main.525/) Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng, Mohit Iyyer, 2020
