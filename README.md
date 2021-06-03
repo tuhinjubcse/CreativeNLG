@@ -45,6 +45,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 19. [Plot Induction and Evolutionary Search for Story Generation](https://www.aclweb.org/anthology/P10-1158/) Neil McIntyre, Mirella Lapata, 2010
 
 #### Metaphor Generation
+1. [Metaphor Generation with Conceptual Mappings](https://arxiv.org/pdf/2106.01228.pdf) Kevin Stowe,Tuhin Chakrabarty,Nanyun Peng,Smaranda Muresan,Iryna Gurevych 2021
 1. [MERMAID: Metaphor Generation with Symbolism and Discriminative Decoding](https://arxiv.org/abs/2103.06779) Tuhin Chakrabarty ,Xurui Zhang, Smaranda Muresan and Nanyun Peng, 2021
 1. [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation](https://www.aclweb.org/anthology/2020.emnlp-main.524/) Tuhin Chakrabarty, Smaranda Muresan, Nanyun Peng, 2020
 1. [Metaphoric Paraphrase Generation](https://arxiv.org/abs/2002.12854) Kevin Stowe, Leonardo Ribeiro, Iryna Gurevych, 2020
