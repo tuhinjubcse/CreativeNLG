@@ -5,6 +5,7 @@ Papers about creative NLG in NLP
 
 [Tuhin Chakrabarty](https://tuhinjubcse.github.io/)
 [Chenghao Yang](https://yangalan123.github.io/)
+[Yufei Tian](https://yufeitian.github.io/website/)
 
 
 ## Background
@@ -21,6 +22,8 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
     - [Sarcasm Generation](#sarcasm-gen)
     - [Idiom Generation](#idiom-gen)
     - [Poetry Generation](#poetry-gen)
+    - [Hyperbole Generation](#hypo-gen)
+    - [Lyrics Generation](#lyrics-gen)
 
 
 #### Story Generation
@@ -86,6 +89,17 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [Automatically Generating Rhythmic Verse with Neural Networks](https://www.aclweb.org/anthology/P17-1016). Jack Hopkins, Douwe Kiela, 2017.
 1. [Generating Topical Poetry](https://www.aclweb.org/anthology/D16-1126). Marjan Ghazvininejad, Xing Shi, Yejin Choi, Kevin Knight, 2016
 1. ["Poetic" Statistical Machine Translation: Rhyme and Meter](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36745.pdf) Dmitriy Genzel, Jakob Uszkoreit, Franz Och, 2010
+
+#### Hyperbole Generation
+1. [HypoGen - Hyperbole Generation with Commonsense and Counterfactual Knowledge](https://arxiv.org/pdf/2109.05097.pdf) Yufei Tian, Arvind krishna Sridhar, and Nanyun Peng, 2021
+
+#### Lyrics Generation
+1. [AI-Lyricist: Generating Music and Vocabulary Constrained Lyrics](https://www.comp.nus.edu.sg/~kanmy/papers/AI-lyricist_paper_FINAL.pdf) Xichu Ma, Ye Wang, Min-Yen Kan, Wee Sun Lee, 2021
+1. [Melody-Conditioned Lyrics Generation with SeqGANs](https://arxiv.org/pdf/2010.14709.pdf) Yihao Chen, Alexander Lerch, 2020
+1. [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/pdf/2012.05168.pdf) Zhonghao Sheng, Kaitao Song, Xu Tan, Yi Ren, Wei Ye, Shikun Zhang, Tao Qin, 2020
+1. [Modeling Structural Topic Transitions for Automatic Lyrics Generation](https://aclanthology.org/Y14-1049.pdf) Kento Watanabe, Yuichiroh Matsubayashi, Kentaro Inui, and Masataka Goto, 2014
+
+
 
 #### Improv and Creative Dialogue Generation 
 1. [Grounding Conversations with Improvised Dialogues](https://www.aclweb.org/anthology/2020.acl-main.218/). Hyundong Cho, Jonathan May, 2020 
