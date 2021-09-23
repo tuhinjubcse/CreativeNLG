@@ -77,7 +77,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 
 #### Poetry Generation and Translation
-1. [Don't Go Far Off: An Empirical Study on Neural Poetry Translation] (https://arxiv.org/pdf/2109.02972.pdf) Tuhin Chakrabarty, Arkadiy Saakyan, Smaranda Muresan, 2021.
+1. [Don't Go Far Off: An Empirical Study on Neural Poetry Translation](https://arxiv.org/pdf/2109.02972.pdf) Tuhin Chakrabarty, Arkadiy Saakyan, Smaranda Muresan, 2021.
 1. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). Tim Van de Cruys, 2020
 1. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). Piji Li, Haisong Zhang, Xiaojiang Liu ,Shuming Shi, 2020
 1. [MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space](https://arxiv.org/pdf/2003.06094.pdf) Xiaoyuan Yi, Ruoyu Li, Cheng Yang, Wenhao Li and Maosong Sun, 2020
