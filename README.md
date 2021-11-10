@@ -55,6 +55,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [Metaphoric Paraphrase Generation](https://arxiv.org/abs/2002.12854) Kevin Stowe, Leonardo Ribeiro, Iryna Gurevych, 2020
 1. [Metaphoria: An algorithmic companion for metaphor creation](https://dl.acm.org/doi/abs/10.1145/3290605.3300526) Katy Ilonka Gero, Lydia B Chilton, 2019
 1. [How to Avoid Sentences Spelling Boring? Towards a Neural Approach to Unsupervised Metaphor Generation](https://www.aclweb.org/anthology/N19-1092/), Zhiwei Yu, Xiaojun Wan, 2019
+1. [Exploring Metaphoric Paraphrase Generation](https://aclanthology.org/2021.conll-1.26/) Kevin Stowe, Nils Beck, Iryna Gurevych, 2021
 
 
 #### Humor Generation
@@ -69,8 +70,8 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 #### Sarcasm Generation
 1. [Rˆ3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge](https://www.aclweb.org/anthology/2020.acl-main.711/) Tuhin Chakrabarty, Debanjan Ghosh, Smaranda Muresan, Nanyun Peng, 2020
-1. [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636/) Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan, 
-
+1. [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636/) Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan,2019 
+1. [Chandler: An Explainable Sarcastic Response Generator](https://aclanthology.org/2021.emnlp-demo.38/) Silviu Oprea, Steven Wilson, Walid Magdy, 2021
 
 #### Idiom Generation
 1. [From Solving a Problem Boldly to Cutting the Gordian Knot: Idiomatic Text Generation](https://arxiv.org/pdf/2104.06541.pdf) Jianing Zhou, Hongyu Gong and Suma Bhat 2020
@@ -92,6 +93,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 #### Hyperbole Generation
 1. [HypoGen - Hyperbole Generation with Commonsense and Counterfactual Knowledge](https://arxiv.org/pdf/2109.05097.pdf) Yufei Tian, Arvind krishna Sridhar, and Nanyun Peng, 2021
+1. [MOVER: Mask, Over-generate and Rank for Hyperbole Generation](https://arxiv.org/abs/2109.07726) Yunxiang Zhang, Xiaojun Wan
 
 #### Lyrics Generation
 1. [AI-Lyricist: Generating Music and Vocabulary Constrained Lyrics](https://www.comp.nus.edu.sg/~kanmy/papers/AI-lyricist_paper_FINAL.pdf) Xichu Ma, Ye Wang, Min-Yen Kan, Wee Sun Lee, 2021
