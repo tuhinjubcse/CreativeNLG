@@ -61,6 +61,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [Metaphoria: An algorithmic companion for metaphor creation](https://dl.acm.org/doi/abs/10.1145/3290605.3300526) Katy Ilonka Gero, Lydia B Chilton, 2019
 1. [How to Avoid Sentences Spelling Boring? Towards a Neural Approach to Unsupervised Metaphor Generation](https://www.aclweb.org/anthology/N19-1092/), Zhiwei Yu, Xiaojun Wan, 2019
 1. [Exploring Metaphoric Paraphrase Generation](https://aclanthology.org/2021.conll-1.26/) Kevin Stowe, Nils Beck, Iryna Gurevych, 2021
+1. [Nominal Metaphor Generation with Multitask Learning](https://arxiv.org/abs/2206.05195) Yucheng Li, Chenghua Lin, Frank Geurin, 2022
 
 
 #### Humor Generation
