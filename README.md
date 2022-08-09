@@ -25,6 +25,10 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
     - [Hyperbole Generation](#hypo-gen)
     - [Lyrics Generation](#lyrics-gen)
 
+#### Miscalleanous
+1. [It’s not Rocket Science: Interpreting Figurative Language in Narratives](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00478/111221/It-s-not-Rocket-Science-Interpreting-Figurative), Tuhin Chakrabarty , Yejin Choi and Vered Shwartz, 2022
+2. [Machine-in-the-Loop Rewriting for Creative Image Captioning] (https://arxiv.org/pdf/2111.04193.pdf) Vishakh Padmakumar, He He 2022
+
 
 #### Story Generation
 1. [Plot-guided Adversarial Example Construction for Evaluating Open-domain Story Generation](https://www.aclweb.org/anthology/2021.naacl-main.343.pdf), Sarik Ghazarian, Zixi Liu, Akash S M, Ralph Weischedel, Aram Galstyan and Nanyun Peng, 2021
@@ -59,6 +63,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 
 #### Humor Generation
+1. [AmbiPun: Generating Humorous Puns with Ambiguous Context] (https://arxiv.org/abs/2205.01825) Anirudh Mittal, Yufei Tian, Nanyun Peng, 2022
 1. [Homophonic Pun Generation with Lexically Constrained Rewriting](https://www.aclweb.org/anthology/2020.emnlp-main.229/) Zhiwei Yu, Hongyu Zang, Xiaojun Wan, 2020
 1. [Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines](https://www.aclweb.org/anthology/2020.acl-demos.28/) Nabil Hossain, John Krumm, Tanvir Sajed, Henry Kautz, 2020
 1. ["Judge me by my size (noun), do you?” YodaLib: A Demographic-Aware Humor Generation Framework](https://www.aclweb.org/anthology/2020.coling-main.253/) Aparna Garimella, Carmen Banea, Nabil Hossain, Rada Mihalcea, 2020
@@ -72,6 +77,8 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 1. [Rˆ3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge](https://www.aclweb.org/anthology/2020.acl-main.711/) Tuhin Chakrabarty, Debanjan Ghosh, Smaranda Muresan, Nanyun Peng, 2020
 1. [A Modular Architecture for Unsupervised Sarcasm Generation](https://www.aclweb.org/anthology/D19-1636/) Abhijit Mishra, Tarun Tater, Karthik Sankaranarayanan,2019 
 1. [Chandler: An Explainable Sarcastic Response Generator](https://aclanthology.org/2021.emnlp-demo.38/) Silviu Oprea, Steven Wilson, Walid Magdy, 2021
+1. [Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation] (https://aclanthology.org/2022.acl-long.530/) Silviu Vlad Oprea, Steven Wilson, Walid Magdy
+1. [When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues] (https://arxiv.org/abs/2203.06419) Shivani Kumar, Atharva Kulkarni, Md Shad Akhtar, Tanmoy Chakraborty, 2022
 
 #### Idiom Generation
 1. [From Solving a Problem Boldly to Cutting the Gordian Knot: Idiomatic Text Generation](https://arxiv.org/pdf/2104.06541.pdf) Jianing Zhou, Hongyu Gong and Suma Bhat 2020
