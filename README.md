@@ -28,6 +28,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 #### Miscalleanous
 1. [It’s not Rocket Science: Interpreting Figurative Language in Narratives](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00478/111221/It-s-not-Rocket-Science-Interpreting-Figurative), Tuhin Chakrabarty , Yejin Choi and Vered Shwartz, 2022
 2. [Machine-in-the-Loop Rewriting for Creative Image Captioning](https://arxiv.org/pdf/2111.04193.pdf) Vishakh Padmakumar, He He 2022
+3. [Go Back in Time - Generating Flashbacks in Stories with Event Plots and Temporal Prompts](https://arxiv.org/pdf/2205.01898.pdf) Rujun Han, Hong Chen, Yufei Tian, and Nanyun Peng 2022
 
 
 #### Story Generation
@@ -85,6 +86,7 @@ Creative NLG and Computational Creativity is becoming popular more so with the a
 
 
 #### Poetry Generation and Translation
+1. [Zero-shot Sonnet Generation with Discourse-level Planning and Aesthetics Features](https://arxiv.org/pdf/2205.01821.pdf) Yufei Tian and Nanyun Peng, 2022
 1. [Don't Go Far Off: An Empirical Study on Neural Poetry Translation](https://arxiv.org/pdf/2109.02972.pdf) Tuhin Chakrabarty, Arkadiy Saakyan, Smaranda Muresan, 2021.
 1. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). Tim Van de Cruys, 2020
 1. [Rigid Formats Controlled Text Generation](https://www.aclweb.org/anthology/2020.acl-main.68.pdf). Piji Li, Haisong Zhang, Xiaojiang Liu ,Shuming Shi, 2020
